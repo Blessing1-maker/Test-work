@@ -1,0 +1,25 @@
+#profile_image{
+     width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: left;
+    margin-right: 25px;
+}
+#home {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+#profile_image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.intro {
+    text-align: left;
+}
+body{background-color: aquamarine;}
